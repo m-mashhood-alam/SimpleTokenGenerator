@@ -1,0 +1,15 @@
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\SimpleTokenGenerator.UnitTests.deps.json
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\SimpleTokenGenerator.UnitTests.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\ref\SimpleTokenGenerator.UnitTests.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\SimpleTokenGenerator.UnitTests.pdb
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\SimpleTokenGenerator.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\bin\Debug\net5.0\SimpleTokenGenerator.pdb
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.csproj.AssemblyReference.cache
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.AssemblyInfoInputs.cache
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.AssemblyInfo.cs
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.csproj.CoreCompileInputs.cache
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.csproj.CopyComplete
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\ref\SimpleTokenGenerator.UnitTests.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator.UnitTests\obj\Debug\net5.0\SimpleTokenGenerator.UnitTests.pdb

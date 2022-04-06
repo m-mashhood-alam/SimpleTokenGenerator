@@ -1,0 +1,11 @@
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\bin\Debug\net5.0\SimpleTokenGenerator.deps.json
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\bin\Debug\net5.0\SimpleTokenGenerator.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\bin\Debug\net5.0\ref\SimpleTokenGenerator.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\bin\Debug\net5.0\SimpleTokenGenerator.pdb
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.AssemblyInfoInputs.cache
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.AssemblyInfo.cs
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.csproj.CoreCompileInputs.cache
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\ref\SimpleTokenGenerator.dll
+D:\Test\SimpleTokenGenerator\SimpleTokenGenerator\SimpleTokenGenerator\obj\Debug\net5.0\SimpleTokenGenerator.pdb
